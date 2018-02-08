@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CIS2013_Week04_Lab01", "CIS2013_Week04_Lab01\CIS2013_Week04_Lab01.vcxproj", "{EFB8C474-5BFC-4C63-A248-A888C44AB7C2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CA400725-F9F9-4641-A04D-4C0A3AB448B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64

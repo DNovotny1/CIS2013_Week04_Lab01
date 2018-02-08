@@ -6,7 +6,15 @@ int large_number = 0;
 void printStuff(int);
 void printstuff(int,int);
 
+void printStuff(int num) {
+	cout << "printing stuff" << (num * 5) << endl;
 
+}
+
+void printStuff(int num, int total) {
+	cout << "printing stuff" << (num * 5) << "and total " << total << endl;
+
+}
 
 
 int main() {
@@ -22,15 +30,7 @@ int main() {
 	cin >>a;
 	return 0;
 }
-void printStuff(int num) {
-	cout << "printing stuff" << (num * 5) << endl;
-	
-}
 
-void printStuff(int num, int total) {
-	cout << "printing stuff" << (num * 5) << "and total " << total << endl;
-	
-}
 
 //CIS2013_Week04_Homework1
 //CIS2013_Week04_Homework2
